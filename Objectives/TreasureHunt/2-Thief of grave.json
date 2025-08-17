@@ -1,0 +1,84 @@
+{
+  "ConfigVersion": 28,
+  "ID": 2,
+  "ObjectiveType": 6,
+  "ObjectiveText": "Find the location of the grave in soll",
+  "TimeLimit": -1,
+  "Active": 1,
+  "ShowDistance": 1,
+  "ContainerName": "ExpansionQuestSeaChest",
+  "DigInStash": 1,
+  "MarkerName": "???",
+  "MarkerVisibility": 4,
+  "Positions": [
+    [
+      8484.598633,
+	  45.084976,
+	  9854.242188
+    ],
+    [
+      8464.994141,
+	  44.935532,
+	  9840.814453
+    ]
+  ],
+  "LootItemsAmount": -7,
+  "MaxDistance": 10,
+  "Loot": [
+    {
+      "Name": "NailBox",
+      "Chance": 0.30000001192092896,
+      "Attachments": [],
+      "QuantityPercent": -1,
+      "Max": -1,
+      "Min": 0,
+      "Variants": []
+    },
+    {
+      "Name": "NailBox",
+      "Chance": 0.5,
+      "Attachments": [],
+      "QuantityPercent": -1,
+      "Max": -1,
+      "Min": 0,
+      "Variants": []
+    },
+    {
+      "Name": "hammer",
+      "Chance": 0.10000000894069672,
+      "Attachments": [],
+      "QuantityPercent": -1,
+      "Max": -1,
+      "Min": 0,
+      "Variants": []
+    },
+    {
+      "Name": "rag_baseiteams_plank_holder",
+      "Chance": 0.10000000894069672,
+      "Attachments": [],
+      "QuantityPercent": -1,
+      "Max": -1,
+      "Min": 0,
+      "Variants": []
+    },
+    {
+      "Name": "rag-baseiteams_wepon_cleaning_kit",
+      "Chance": 0.10000000894069672,
+      "Attachments": [],
+      "QuantityPercent": -1,
+      "Max": -1,
+      "Min": 0,
+      "Variants": []
+    },
+    {
+      "Name": "WeaponCleaningKit",
+      "Chance": 0.10000000894069672,
+      "Attachments": [],
+      "QuantityPercent": -1,
+      "Max": -1,
+      "Min": 0,
+      "Variants": []
+    },
+    }
+  ]
+}
