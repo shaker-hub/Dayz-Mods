@@ -14,8 +14,7 @@
     "MinDistance": -1.0,
     "Amount": 10,
     "ClassNames": [
-        "Animal_Rabbit_Grey",
-        "Animal_Rabbit_Brown"
+        "Animal_LepusEuropaeus"
     ],
     "CountSelfKill": 0,
     "AllowedWeapons": [],

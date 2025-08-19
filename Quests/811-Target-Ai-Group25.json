@@ -21,7 +21,7 @@
   "Rewards": [
     {
       "ClassName": "ExpansionCodeLock",
-      "Amount": 1,
+      "Amount": 5,
       "Attachments": [],
       "DamagePercent": 0,
       "HealthPercent": 0,
@@ -29,7 +29,7 @@
       "Chance": 1
     },
     {
-      "ClassName": "LBS_SleepingPacked_New_Blue",
+      "ClassName": "ExpansionSupplySignal",
       "Amount": 1,
       "Attachments": [],
       "DamagePercent": 0,

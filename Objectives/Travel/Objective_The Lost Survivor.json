@@ -2,16 +2,16 @@
     "ConfigVersion": 28,
     "ID": 73,
     "ObjectiveType": 3,
-    "ObjectiveText": "Travel to Skalisty.",
+    "ObjectiveText": "Travel to Herrn Chiemsee.",
     "TimeLimit": -1,
     "Active": 1,
     "Position": [
-        13617.04,
-        41.15,
-        3042.64
+        7431.740723,
+         6.964978,
+         3466.031982
     ],
     "MaxDistance": 300.0,
-    "MarkerName": "Travel to Skalisty",
+    "MarkerName": "Travel to Herrn Chiemsee",
     "ShowDistance": 0,
     "TriggerOnEnter": 1,
     "TriggerOnExit": 0

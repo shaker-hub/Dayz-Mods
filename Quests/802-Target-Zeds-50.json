@@ -20,8 +20,8 @@
   "QuestItems": [],
   "Rewards": [
     {
-      "ClassName": "ExpansionBanknoteHryvnia",
-      "Amount": 3000,
+      "ClassName": "MoneyAUD100",
+      "Amount": 30,
       "Attachments": [],
       "DamagePercent": 0,
       "HealthPercent": 0,
@@ -29,7 +29,7 @@
       "Chance": 1
     },
     {
-      "ClassName": "InediaPain_FirstAidKit_White",
+      "ClassName": "FirstAidKit",
       "Amount": 1,
       "Attachments": [],
       "DamagePercent": 0,

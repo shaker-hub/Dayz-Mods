@@ -1,27 +1,27 @@
 {
     "ConfigVersion": 22,
-    "ID": 507,
+    "ID": 220,
     "Type": 1,
-    "Title": "Rats of Cheno",
+    "Title": "Clear Prien of bandit camp",
     "Descriptions": [
-        "In the aftermath of Cheno's destruction, the once bustling town has been overrun by an unexpected plague of rats.",
-        "Your task is to venture into the ruins of Cheno and capture as many rats as possible. These creatures are not only a nuisance but also carriers of disease, making their eradication imperative for the safety of the survivors.",
-        "Sweet, here is your reward."
+        "Some bandits have set up in Prien. They need to be dealt with.",
+        "Head up to Prien and clear the bastards out. They are a small group but they are well armed and dangerous. Be careful.",
+        "Nice work, we could use more people like you. Here is your reward."
     ],
-    "ObjectiveText": "Conquer the Rat Menace.",
+    "ObjectiveText": "Kill all 5 units of the group at the marked location.",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 0,
     "IsWeeklyQuest": 1,
-    "CancelQuestOnPlayerDeath": 0,
+    "CancelQuestOnPlayerDeath": 1,
     "Autocomplete": 0,
-    "IsGroupQuest": 0,
+    "IsGroupQuest": 1,
     "ObjectSetFileName": "",
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "ExpansionBanknoteHryvnia",
-            "Amount": 6000,
+            "ClassName": "MoneyAUD100",
+            "Amount": 250,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,
@@ -35,21 +35,26 @@
     "RewardsForGroupOwnerOnly": 0,
     "RewardBehavior": 0,
     "QuestGiverIDs": [
-        1
+        3
     ],
     "QuestTurnInIDs": [
-        1
+        3
     ],
     "IsAchievement": 0,
     "Objectives": [
         {
             "ConfigVersion": 28,
-            "ID": 9,
-            "ObjectiveType": 4
+            "ID": 7,
+            "ObjectiveType": 3
+        },
+        {
+            "ConfigVersion": 28,
+            "ID": 4,
+            "ObjectiveType": 8
         }
     ],
-    "QuestColor": -1237743,
-    "ReputationReward": 200,
+    "QuestColor": 0,
+    "ReputationReward": 3000,
     "ReputationRequirement": 0,
     "PreQuestIDs": [],
     "RequiredFaction": "",

@@ -20,8 +20,8 @@
   "QuestItems": [],
   "Rewards": [
     {
-      "ClassName": "expansionbanknotehryvnia",
-      "Amount": 50000,
+      "ClassName": "MoneyAUD100",
+      "Amount": 500,
       "Attachments": [],
       "DamagePercent": 0,
       "HealthPercent": 0,
@@ -29,7 +29,7 @@
       "Chance": 1
     },
     {
-      "ClassName": "MMG_camelback_dark_woodland",
+      "ClassName": "JK_Carton_XXXX",
       "Amount": 1,
       "Attachments": [],
       "DamagePercent": 0,
@@ -47,8 +47,8 @@
       "Chance": 1
     },
     {
-      "ClassName": "TerjeBookHunting2",
-      "Amount": 1,
+      "ClassName": "AmmoBox_308win_20Rnd",
+      "Amount": 10,
       "Attachments": [],
       "DamagePercent": 0,
       "HealthPercent": 0,

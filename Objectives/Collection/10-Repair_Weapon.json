@@ -7,8 +7,8 @@
     "Active": 1,
     "Collections": [
         {
-            "Amount": 12000,
-            "ClassName": "expansionbanknotehryvnia"
+            "Amount": 120,
+            "ClassName": "MoneyAUD100"
         }
     ],
     "ShowDistance": 1,

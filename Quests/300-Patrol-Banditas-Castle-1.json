@@ -4,9 +4,9 @@
   "Type": 1,
   "Title": "AIPatrol-Bandits",
   "Descriptions": [
-    "Some bandits have taken over Devil’s Castle and are causing chaos — raiding supplies, ambushing travelers, even shooting up nearby towns. They’ve turned that old fortress into a stronghold. It’s time someone put an end to it. Think you’re up for the task?",
+    "Some bandits have taken over AltSchwanstein Castle and are causing chaos — raiding supplies, ambushing travelers, even shooting up nearby towns. They’ve turned that old fortress into a stronghold. It’s time someone put an end to it. Think you’re up for the task?",
     "Head up to Devils Castle and clear out the bandits. They are a small group but they are well armed and dangerous. Be careful.",
-    "Devil’s Castle is clear? That’s a big win. Those bastards had it coming. You did good — thank you. Here’s your reward."
+    "AltSchwanstein Castle is clear? That’s a big win. Those bastards had it coming. You did good — thank you. Here’s your reward."
   ],
   "ObjectiveText": "Kill all units of the bandit patrol group at the marked location.",
   "FollowUpQuest": -1,
@@ -20,8 +20,8 @@
   "QuestItems": [],
   "Rewards": [
     {
-      "ClassName": "expansionbanknotehryvnia",
-      "Amount": 8000,
+      "ClassName": "MoneyAUD100",
+      "Amount": 80,
       "Attachments": [],
       "DamagePercent": 0,
       "HealthPercent": 0,
@@ -51,6 +51,11 @@
   ],
   "IsAchievement": 0,
   "Objectives": [
+     {
+      "ConfigVersion": 28,
+      "ID": 4,
+      "ObjectiveType": 3
+    },
     {
       "ConfigVersion": 28,
       "ID": 1,

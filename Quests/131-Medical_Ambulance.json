@@ -4,7 +4,7 @@
   "Type": 1,
   "Title": "Field Medic Investigate Hospital",
   "Descriptions": [
-    "Reports are coming in — a hospital in Stary Sobor was ambushed by bandits. Medical supplies were taken, and survivors are missing. This won't be easy... You'll need a vehicle to reach the area and deal with the threat. Gear up and be ready for a fight.",
+    "Reports are coming in — a hospital in Prien was ambushed by bandits. Medical supplies were taken, and survivors are missing. This won't be easy... You'll need a vehicle to reach the area and deal with the threat. Gear up and be ready for a fight.",
     "Goto the location find out if there were any survivors ",
     "The hospital is secured, and the bandits are no more. You did what others couldn’t. Thank you — this reward is well-deserved."
   ],
@@ -18,7 +18,17 @@
   "IsGroupQuest": 0,
   "ObjectSetFileName": "",
   "QuestItems": [],
-  "Rewards": [],
+  "Rewards": [
+    {
+      "ClassName": "MoneyAUD100",
+      "Amount": 50,
+      "Attachments": [],
+      "DamagePercent": 0,
+      "HealthPercent": 0,
+      "QuestID": -1,
+      "Chance": 1
+    }
+  ],
   "NeedToSelectReward": 0,
   "RandomReward": 0,
   "RandomRewardAmount": -1,

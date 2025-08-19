@@ -2,13 +2,13 @@
     "ConfigVersion": 28,
     "ID": 11,
     "ObjectiveType": 4,
-    "ObjectiveText": "Show me the Silver for the ride",
+    "ObjectiveText": "Show me repair kits",
     "TimeLimit": -1,
     "Active": 1,
     "Collections": [
         {
             "Amount": 2,
-            "ClassName": "ExpansionSilverNugget",
+            "ClassName": "ElectronicRepairKit",
             "QuantityPercent": -1,
             "MinQuantityPercent": 0
         }

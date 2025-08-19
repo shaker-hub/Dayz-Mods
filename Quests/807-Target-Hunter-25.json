@@ -20,7 +20,7 @@
   "QuestItems": [],
   "Rewards": [
     {
-      "ClassName": "mmg_camelback_tan",
+      "ClassName": "FOG_Bag_6ShBagT_BlackEMD",
       "Amount": 1,
       "Attachments": [],
       "DamagePercent": 0,
@@ -29,7 +29,7 @@
       "Chance": 1
     },
     {
-      "ClassName": "mmg_camelback_ucp",
+      "ClassName": "FOG_Bag_6ShBagT_Black",
       "Amount": 1,
       "Attachments": [],
       "DamagePercent": 0,
@@ -38,7 +38,7 @@
       "Chance": 1
     },
     {
-      "ClassName": "mmg_camelback_atacs",
+      "ClassName": "FOG_Bag_6ShBagT_RG",
       "Amount": 1,
       "Attachments": [],
       "DamagePercent": 0,
@@ -47,7 +47,7 @@
       "Chance": 1
     },
     {
-      "ClassName": "mmg_camelback_multicamblack",
+      "ClassName": "FOG_Bag_6ShBagT_CB",
       "Amount": 1,
       "Attachments": [],
       "DamagePercent": 0,
@@ -56,7 +56,7 @@
       "Chance": 1
     },
     {
-      "ClassName": "mmg_camelback_black",
+      "ClassName": "FOG_Bag_6ShBagT_EMR_White",
       "Amount": 1,
       "Attachments": [],
       "DamagePercent": 0,
@@ -65,61 +65,7 @@
       "Chance": 1
     },
     {
-      "ClassName": "mmg_camelback_alpine",
-      "Amount": 1,
-      "Attachments": [],
-      "DamagePercent": 0,
-      "HealthPercent": 0,
-      "QuestID": -1,
-      "Chance": 1
-    },
-    {
-      "ClassName": "mmg_camelback_dark_woodland",
-      "Amount": 1,
-      "Attachments": [],
-      "DamagePercent": 0,
-      "HealthPercent": 0,
-      "QuestID": -1,
-      "Chance": 1
-    },
-    {
-      "ClassName": "mmg_camelback_erdl",
-      "Amount": 1,
-      "Attachments": [],
-      "DamagePercent": 0,
-      "HealthPercent": 0,
-      "QuestID": -1,
-      "Chance": 1
-    },
-    {
-      "ClassName": "mmg_camelback_green",
-      "Amount": 1,
-      "Attachments": [],
-      "DamagePercent": 0,
-      "HealthPercent": 0,
-      "QuestID": -1,
-      "Chance": 1
-    },
-    {
-      "ClassName": "mmg_camelback_multicam",
-      "Amount": 1,
-      "Attachments": [],
-      "DamagePercent": 0,
-      "HealthPercent": 0,
-      "QuestID": -1,
-      "Chance": 1
-    },
-    {
-      "ClassName": "mmg_camelback_multicam_tropic",
-      "Amount": 1,
-      "Attachments": [],
-      "DamagePercent": 0,
-      "HealthPercent": 0,
-      "QuestID": -1,
-      "Chance": 1
-    },
-    {
-      "ClassName": "TerjeBookHunting2",
+      "ClassName": "FOG_Bag_6ShBagT_White",
       "Amount": 1,
       "Attachments": [],
       "DamagePercent": 0,

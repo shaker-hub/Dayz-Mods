@@ -20,35 +20,8 @@
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "expansionbanknotehryvnia",
-            "Amount": 5000,
-            "Attachments": [],
-            "DamagePercent": 0,
-            "HealthPercent": 0,
-            "QuestID": -1,
-            "Chance": 1.0
-        },
-        {
-            "ClassName": "HM_PC_Kit",
-            "Amount": 1,
-            "Attachments": [],
-            "DamagePercent": 0,
-            "HealthPercent": 0,
-            "QuestID": -1,
-            "Chance": 1.0
-        },
-        {
-            "ClassName": "HM_PSU",
-            "Amount": 1,
-            "Attachments": [],
-            "DamagePercent": 0,
-            "HealthPercent": 0,
-            "QuestID": -1,
-            "Chance": 1.0
-        },
-        {
-            "ClassName": "HM_GPU",
-            "Amount": 2,
+            "ClassName": "MoneyAUD100",
+            "Amount": 50,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,

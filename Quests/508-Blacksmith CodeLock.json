@@ -1,27 +1,27 @@
 {
   "ConfigVersion": 22,
-  "ID": 506,
+  "ID": 508,
   "Type": 1,
-  "Title": "Skin the Crocodile",
+  "Title": "Blacksmith codelock",
   "Descriptions": [
-    "There are rumors that there is a crocodile in our river!",
-    "But I don't really believe in these fakes. If you show me that I will give you a generous gift.",
-    "Sweet, here is your reward."
+    "In an apocalypse, those days aren't safe. It seems like you'll need one of the best locks around!",
+    "Collect all items and bring them back to Peter at the Trade Center.",
+    "That should keep you safe for a while."
   ],
-  "ObjectiveText": "Kill the crocodile and bring its Teeth.",
+  "ObjectiveText": "Collect all items.",
   "FollowUpQuest": -1,
   "Repeatable": 1,
   "IsDailyQuest": 0,
   "IsWeeklyQuest": 1,
-  "CancelQuestOnPlayerDeath": 1,
+  "CancelQuestOnPlayerDeath": 0,
   "Autocomplete": 0,
   "IsGroupQuest": 0,
   "ObjectSetFileName": "",
   "QuestItems": [],
   "Rewards": [
     {
-      "ClassName": "ExpansionBanknoteHryvnia",
-      "Amount": 10000,
+      "ClassName": "ExpansionCodeLock",
+      "Amount": 1,
       "Attachments": [],
       "DamagePercent": 0,
       "HealthPercent": 0,
@@ -44,13 +44,13 @@
   "Objectives": [
     {
       "ConfigVersion": 28,
-      "ID": 7,
+      "ID": 11,
       "ObjectiveType": 4
     }
   ],
-  "QuestColor": -1237743,
-  "ReputationReward": 2000,
-  "ReputationRequirement": 0,
+  "QuestColor": 0,
+  "ReputationReward": 0,
+  "ReputationRequirement": 3000,
   "PreQuestIDs": [],
   "RequiredFaction": "",
   "FactionReward": "",

@@ -29,8 +29,8 @@
       "Chance": 1
     },
     {
-      "ClassName": "ExpansionBanknoteHryvnia",
-      "Amount": 3000,
+      "ClassName": "MoneyAUD100",
+      "Amount": 30,
       "Attachments": [],
       "DamagePercent": 0,
       "HealthPercent": 0,

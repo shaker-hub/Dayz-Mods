@@ -20,8 +20,8 @@
   "QuestItems": [],
   "Rewards": [
     {
-      "ClassName": "MMG_mmps_bag_multicam_tropic",
-      "Amount": 1,
+      "ClassName": "MoneyAUD100",
+      "Amount": 100,
       "Attachments": [],
       "DamagePercent": 0,
       "HealthPercent": 0,
@@ -29,7 +29,7 @@
       "Chance": 0
     },
     {
-      "ClassName": "PunchedCard",
+      "ClassName": "ExpansionCarKey",
       "Amount": 1,
       "Attachments": [],
       "DamagePercent": 0,

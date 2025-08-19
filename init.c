@@ -237,7 +237,7 @@ class CustomMission: MissionServer
 
         questHolderEscort.SetNPCEmoteID(EmoteConstants.ID_EMOTE_SITA);
         questHolderEscort.SetLoadoutName("SurvivorLoadout");
-        ExpansionTempQuestHolderPosition questHolderEscortPos = new ExpansionTempQuestHolderPosition("5991.19 307.92 7692.06", "-166.768 0 -0");
+        ExpansionTempQuestHolderPosition questHolderEscortPos = new ExpansionTempQuestHolderPosition(" 4770.867188 9.291787 1793.562622", "0.0 0.0 0.0");
         ExpansionQuestModule.GetModuleInstance().SpawnQuestHolder(questHolderEscort, questHolderEscortPos);
     }
     //! Quest 132--Good Person, Investigate School
@@ -249,7 +249,7 @@ class CustomMission: MissionServer
 
         questHolderEscort.SetNPCEmoteID(EmoteConstants.ID_EMOTE_SITA);
         questHolderEscort.SetLoadoutName("PlayerFemaleSuitLoadout");
-        ExpansionTempQuestHolderPosition questHolderEscortPos = new ExpansionTempQuestHolderPosition("3230.55 210.046 13025.7", "140.698 0 -0");
+        ExpansionTempQuestHolderPosition questHolderEscortPos = new ExpansionTempQuestHolderPosition("9959.399414 12.754996 916.656555", "140.698 0 -0");
         ExpansionQuestModule.GetModuleInstance().SpawnQuestHolder(questHolderEscort, questHolderEscortPos);
     }
     //! Quest 133--The Lost Survivor
@@ -261,7 +261,7 @@ class CustomMission: MissionServer
 
         questHolderEscort.SetNPCEmoteID(EmoteConstants.ID_EMOTE_SITA);
         questHolderEscort.SetLoadoutName("SurvivorLoadout");
-        ExpansionTempQuestHolderPosition questHolderEscortPos = new ExpansionTempQuestHolderPosition("13854.64 30.53 2889.72", "62.99 -0 -0");
+        ExpansionTempQuestHolderPosition questHolderEscortPos = new ExpansionTempQuestHolderPosition("7431.74 6.97 3446.03", "62.99 -0 -0");
         ExpansionQuestModule.GetModuleInstance().SpawnQuestHolder(questHolderEscort, questHolderEscortPos);
     }
     //! Quest 134--PilotCrash - NEW QUEST
@@ -273,7 +273,7 @@ class CustomMission: MissionServer
 
         questHolderEscort.SetNPCEmoteID(EmoteConstants.ID_EMOTE_SITA);
         questHolderEscort.SetLoadoutName("PilotNPCExtraction");
-        ExpansionTempQuestHolderPosition questHolderEscortPos = new ExpansionTempQuestHolderPosition("8782.02 141.95 2904.97", "-44.99 0 0");
+        ExpansionTempQuestHolderPosition questHolderEscortPos = new ExpansionTempQuestHolderPosition(" 8952.552734 6.894823 5014.624023", "-44.99 0 0");
         ExpansionQuestModule.GetModuleInstance().SpawnQuestHolder(questHolderEscort, questHolderEscortPos);
     }
     //! Quest 135--PilotCrash_1 - NEW QUEST
@@ -285,7 +285,7 @@ class CustomMission: MissionServer
 
         questHolderEscort.SetNPCEmoteID(EmoteConstants.ID_EMOTE_SITA);
         questHolderEscort.SetLoadoutName("PilotNPCExtraction");
-        ExpansionTempQuestHolderPosition questHolderEscortPos = new ExpansionTempQuestHolderPosition("12319.18 251.86 4553.80", "161.99 0.0 -0.0");
+        ExpansionTempQuestHolderPosition questHolderEscortPos = new ExpansionTempQuestHolderPosition("6641.495605 2.640895 5905.898926", "161.99 0.0 -0.0");
         ExpansionQuestModule.GetModuleInstance().SpawnQuestHolder(questHolderEscort, questHolderEscortPos);
     }
     //! Quest 136--PilotCrash_2 - NEW QUEST
@@ -297,7 +297,7 @@ class CustomMission: MissionServer
 
         questHolderEscort.SetNPCEmoteID(EmoteConstants.ID_EMOTE_SITA);
         questHolderEscort.SetLoadoutName("PilotNPCExtraction");
-        ExpansionTempQuestHolderPosition questHolderEscortPos = new ExpansionTempQuestHolderPosition("6246.88 273.78 11612.51", "0.0 -0.0 -0.0");
+        ExpansionTempQuestHolderPosition questHolderEscortPos = new ExpansionTempQuestHolderPosition("1526.431152 17.259998 10007.069336", "0.0 -0.0 -0.0");
         ExpansionQuestModule.GetModuleInstance().SpawnQuestHolder(questHolderEscort, questHolderEscortPos);
     }
 #endif

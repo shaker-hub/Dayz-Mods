@@ -20,7 +20,7 @@
   "QuestItems": [],
   "Rewards": [
     {
-      "ClassName": "Project3DPrinter_USB_01",
+      "ClassName": "Pot",
       "Amount": 1,
       "Attachments": [],
       "DamagePercent": 0,
@@ -29,43 +29,7 @@
       "Chance": 1
     },
     {
-      "ClassName": "Project3DPrinter_USB_02",
-      "Amount": 1,
-      "Attachments": [],
-      "DamagePercent": 0,
-      "HealthPercent": 0,
-      "QuestID": -1,
-      "Chance": 1
-    },
-    {
-      "ClassName": "Project3DPrinter_USB_03",
-      "Amount": 1,
-      "Attachments": [],
-      "DamagePercent": 0,
-      "HealthPercent": 0,
-      "QuestID": -1,
-      "Chance": 1
-    },
-    {
-      "ClassName": "Project3DPrinter_USB_04",
-      "Amount": 1,
-      "Attachments": [],
-      "DamagePercent": 0,
-      "HealthPercent": 0,
-      "QuestID": -1,
-      "Chance": 1
-    },
-    {
-      "ClassName": "Project3DPrinter_USB_05",
-      "Amount": 1,
-      "Attachments": [],
-      "DamagePercent": 0,
-      "HealthPercent": 0,
-      "QuestID": -1,
-      "Chance": 1
-    },
-    {
-      "ClassName": "TerjeBookHunting2",
+      "ClassName": "FryingPan",
       "Amount": 1,
       "Attachments": [],
       "DamagePercent": 0,
@@ -74,7 +38,7 @@
       "Chance": 1
     }
   ],
-  "NeedToSelectReward": 1,28
+  "NeedToSelectReward": 1,
   "RandomReward": 0,
   "RandomRewardAmount": 1,
   "RewardsForGroupOwnerOnly": 0,

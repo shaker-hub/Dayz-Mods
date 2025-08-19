@@ -20,8 +20,8 @@
   "QuestItems": [],
   "Rewards": [
     {
-      "ClassName": "Project3DPrinter_Kit",
-      "Amount": 1,
+      "ClassName": "MoneyAUD100",
+      "Amount": 70,
       "Attachments": [],
       "DamagePercent": 0,
       "HealthPercent": 0,

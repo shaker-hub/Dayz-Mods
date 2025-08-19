@@ -4,11 +4,11 @@
   "Type": 1,
   "Title": "Zombie Detail",
   "Descriptions": [
-    "They only come out at night... and most people are smart enough to stay inside. But we need someone reckless — or brave — enough to take them down. Hunt and kill 10 mutants under the cover of darkness. It's dangerous out there... don't become one of them.",
+    "They only come out at night... and most people are smart enough to stay inside. But we need someone reckless — or brave — enough to take them down. Hunt and kill 1000 Zombies under the cover of darkness. It's dangerous out there... don't become one of them.",
     "You are not done yet? Come back when the job is done!",
     "You went out there at night and actually came back in one piece? Either you’re crazy or just really good. Either way — here, take this."
   ],
-  "ObjectiveText": "Kill 10 Mutants.",
+  "ObjectiveText": "Kill 1000 Zombies.",
   "FollowUpQuest": 803,
   "Repeatable": 1,
   "IsDailyQuest": 0,
@@ -20,8 +20,8 @@
   "QuestItems": [],
   "Rewards": [
     {
-      "ClassName": "ExpansionBanknoteHryvnia",
-      "Amount": 5000,
+      "ClassName": "MoneyAUD100",
+      "Amount": 2500,
       "Attachments": [],
       "DamagePercent": 0,
       "HealthPercent": 0,

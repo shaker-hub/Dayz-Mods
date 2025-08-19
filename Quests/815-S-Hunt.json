@@ -2,9 +2,9 @@
     "ConfigVersion": 22,
     "ID": 815,
     "Type": 1,
-    "Title": "Serpent Slither",
+    "Title": "Scorpions of pain",
     "Descriptions": [
-        "Following the devastation of Cheno, a new threat emerges from the shadows of the ruined town: a proliferation of deadly snakes.",
+        "Following the devastation of Cheno, a new threat emerges from the shadows of the ruined town: a proliferation of deadly Scorpions.",
         "You are not done yet? Come back when the job is done!",
         "Recognition from the survivors for your heroic efforts in reclaiming Cheno from the serpent threat."
     ],
@@ -20,26 +20,8 @@
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "expansionbanknotehryvnia",
-            "Amount": 5000,
-            "Attachments": [],
-            "DamagePercent": 0,
-            "HealthPercent": 0,
-            "QuestID": -1,
-            "Chance": 1.0
-        },
-        {
-            "ClassName": "HM_PSU",
-            "Amount": 1,
-            "Attachments": [],
-            "DamagePercent": 0,
-            "HealthPercent": 0,
-            "QuestID": -1,
-            "Chance": 1.0
-        },
-        {
-            "ClassName": "HM_GPU",
-            "Amount": 1,
+            "ClassName": "MoneyAUD100",
+            "Amount": 50,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,

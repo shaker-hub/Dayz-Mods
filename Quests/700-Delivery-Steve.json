@@ -20,8 +20,8 @@
   "QuestItems": [],
   "Rewards": [
     {
-      "ClassName": "ExpansionBanknoteHryvnia",
-      "Amount": 200,
+      "ClassName": "MoneyAUD100",
+      "Amount": 20,
       "Attachments": [],
       "DamagePercent": 0,
       "HealthPercent": 0,

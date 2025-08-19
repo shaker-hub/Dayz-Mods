@@ -20,17 +20,8 @@
   "QuestItems": [],
   "Rewards": [
     {
-      "ClassName": "ExpansionBanknoteHryvnia",
-      "Amount": 20000,
-      "Attachments": [],
-      "DamagePercent": 0,
-      "HealthPercent": 0,
-      "QuestID": -1,
-      "Chance": 1
-    },
-    {
-      "ClassName": "Project3DPrinter_Filament_Green",
-      "Amount": 1,
+      "ClassName": "MoneyAUD100",
+      "Amount": 200,
       "Attachments": [],
       "DamagePercent": 0,
       "HealthPercent": 0,

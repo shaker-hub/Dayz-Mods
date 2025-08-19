@@ -10,13 +10,13 @@
   "DigInStash": 1,
   "MarkerName": "???",
   "MarkerVisibility": 4,
-  "Positions": [
+  "Positions": 
     [
       5283.125000,
 	  3.609698,
 	  8528.56445
-    ]
-  "LootItemsAmount": -10,
+    ],
+  "LootItemsAmount": -7,
   "MaxDistance": 10,
   "Loot": [
     {
