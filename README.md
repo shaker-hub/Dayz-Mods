@@ -46,6 +46,8 @@ If you have any questions, feel free to ask.
 For quest settings Go to your DayZ server folder and navigate to:  
    `DayZServer\profiles\ExpansionMod\settings\Quests`  
    (This is my path — yours may look similar)
+
+   
 {
   "m_Version": 10,
   "EnableQuests": 1,
