@@ -1,29 +1,23 @@
 {
   "ConfigVersion": 6,
-  "ID": 1,
-  "ClassName": "ExpansionQuestNPCAIDenis",
+  "ID": 4000,
+  "ClassName": "ExpansionQuestNPCAISeth",
   "Position": [
-    6244.958984,
-     43.453,
-     7509.489258
+    4771.558594,
+     20.710779,
+     1805.632690
   ],
   "Orientation": [
-    282,
-    0,
-    0
+    53,
+    0.0,
+    0.0
   ],
-  "NPCName": "Peter",
-  "DefaultNPCText": "Hmm?",
-  "Waypoints": [
-    [
-      6244.958984,
-     43.453,
-     7509.489258
-    ]
-  ],
+  "NPCName": "CARRIER HELI PILOT",
+  "DefaultNPCText": "Something wrong, maybe your reputation is low ?",
+  "Waypoints": [],
   "NPCEmoteID": 46,
   "NPCEmoteIsStatic": 0,
-  "NPCLoadoutFile": "MulticamBlackLoadout",
+  "NPCLoadoutFile": "HeliPilot",
   "NPCInteractionEmoteID": 1,
   "NPCQuestCancelEmoteID": 60,
   "NPCQuestStartEmoteID": 58,

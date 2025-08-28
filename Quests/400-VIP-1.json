@@ -5,7 +5,7 @@
   "Title": "Lost Survivor",
   "Descriptions": [
     "This poor fool got separated from their group and now they're stuck out there alone. They’re lucky to still be breathing. Get them home safely — if they don’t get themselves killed first.",
-    "Escort this idiot back to their home and let Peter know the job was completed.",
+    "Escort this idiot back to their home and let Steve know the job was completed.",
     "You actually got them back in one piece? Impressive. Maybe there’s hope for them after all. Thanks — here’s your reward."
   ],
   "ObjectiveText": "PLACEHOLDER",
@@ -21,7 +21,7 @@
   "Rewards": [
     {
       "ClassName": "MoneyAUD100",
-      "Amount": 5,
+      "Amount": 50,
       "Attachments": [],
       "DamagePercent": 0,
       "HealthPercent": 0,
@@ -38,7 +38,7 @@
     1
   ],
   "QuestTurnInIDs": [
-    1
+    2
   ],
   "IsAchievement": 0,
   "Objectives": [

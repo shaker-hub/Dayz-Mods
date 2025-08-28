@@ -1,29 +1,23 @@
 {
   "ConfigVersion": 6,
-  "ID": 1,
-  "ClassName": "ExpansionQuestNPCAIDenis",
+  "ID": 4002,
+  "ClassName": "ExpansionQuestNPCAIManua",
   "Position": [
-    6244.958984,
-     43.453,
-     7509.489258
+    14385.2,
+    3.35889,
+    13279.4
   ],
   "Orientation": [
-    282,
+    0,
     0,
     0
   ],
-  "NPCName": "Peter",
-  "DefaultNPCText": "Hmm?",
-  "Waypoints": [
-    [
-      6244.958984,
-     43.453,
-     7509.489258
-    ]
-  ],
+  "NPCName": "FISHING EXTRACTION PILOT",
+  "DefaultNPCText": "Something wrong, maybe your reputation is low ?",
+  "Waypoints": [],
   "NPCEmoteID": 46,
   "NPCEmoteIsStatic": 0,
-  "NPCLoadoutFile": "MulticamBlackLoadout",
+  "NPCLoadoutFile": "HeliPilot",
   "NPCInteractionEmoteID": 1,
   "NPCQuestCancelEmoteID": 60,
   "NPCQuestStartEmoteID": 58,

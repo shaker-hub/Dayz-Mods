@@ -1,29 +1,23 @@
 {
   "ConfigVersion": 6,
-  "ID": 1,
-  "ClassName": "ExpansionQuestNPCAIDenis",
+  "ID": 4006,
+  "ClassName": "ExpansionQuestNPCAILinda",
   "Position": [
-    6244.958984,
-     43.453,
-     7509.489258
+    1319.723145,
+     17.284998,
+     10020.049805
   ],
   "Orientation": [
-    282,
+    153.725,
     0,
-    0
+    -0
   ],
-  "NPCName": "Peter",
-  "DefaultNPCText": "Hmm?",
-  "Waypoints": [
-    [
-      6244.958984,
-     43.453,
-     7509.489258
-    ]
-  ],
+  "NPCName": "SOLNECHNY EXTRACTION PILOT",
+  "DefaultNPCText": "Something wrong, maybe your reputation is low ?",
+  "Waypoints": [],
   "NPCEmoteID": 46,
   "NPCEmoteIsStatic": 0,
-  "NPCLoadoutFile": "MulticamBlackLoadout",
+  "NPCLoadoutFile": "HeliPilot",
   "NPCInteractionEmoteID": 1,
   "NPCQuestCancelEmoteID": 60,
   "NPCQuestStartEmoteID": 58,

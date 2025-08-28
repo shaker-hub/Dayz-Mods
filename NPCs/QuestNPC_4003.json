@@ -1,29 +1,23 @@
 {
   "ConfigVersion": 6,
-  "ID": 1,
-  "ClassName": "ExpansionQuestNPCAIDenis",
+  "ID": 4003,
+  "ClassName": "ExpansionQuestNPCAILinda",
   "Position": [
-    6244.958984,
-     43.453,
-     7509.489258
+    7195.331543,
+     7.630973,
+    3589.498047
   ],
   "Orientation": [
-    282,
+    125.526,
     0,
-    0
+    -0
   ],
-  "NPCName": "Peter",
-  "DefaultNPCText": "Hmm?",
-  "Waypoints": [
-    [
-      6244.958984,
-     43.453,
-     7509.489258
-    ]
-  ],
+  "NPCName": "Chernogorsk EXTRACTION PILOT",
+  "DefaultNPCText": "Something wrong, maybe your reputation is low ?",
+  "Waypoints": [],
   "NPCEmoteID": 46,
   "NPCEmoteIsStatic": 0,
-  "NPCLoadoutFile": "MulticamBlackLoadout",
+  "NPCLoadoutFile": "HeliPilot",
   "NPCInteractionEmoteID": 1,
   "NPCQuestCancelEmoteID": 60,
   "NPCQuestStartEmoteID": 58,

@@ -33,7 +33,7 @@ Some quests were found online and fixed/updated by me, while others were custom-
    `DayZServer\profiles\ExpansionMod\Quests`  
    (This is my path — yours may look similar)
 
-2. Drag and drop the 3 folders provided (if you're using default Expansion settings and don’t yet have custom quests).
+2. Delet old quest file then Drag and drop all folders provided (if you're using default Expansion settings and don’t yet have custom quests).
 
 3. Start your server and adjust the quests as you like.
 

@@ -24,7 +24,7 @@
       "LootingBehaviour": "",
       "Speed": "RANDOM_NONSTATIC ",
       "UnderThreatSpeed": "SPRINT",
-      "CanBeLooted": 0,
+      "CanBeLooted": 1,
       "UnlimitedReload": 1,
       "SniperProneDistanceThreshold": 80,
       "AccuracyMin": 0.9,

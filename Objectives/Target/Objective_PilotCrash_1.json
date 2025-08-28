@@ -2,7 +2,7 @@
   "ConfigVersion": 28,
   "ID": 75,
   "ObjectiveType": 2,
-  "ObjectiveText": "Clear the area! Locate the survivor immediately!",
+  "ObjectiveText": "Clear the area of 25 zombies'  Locate the survivor immediately!",
   "TimeLimit": -1,
   "Active": 1,
   "Position": [
@@ -10,7 +10,7 @@
      2.640895,
      5905.898926
   ],
-  "MaxDistance": 200.0,
+  "MaxDistance": 500.0,
   "MinDistance": -1.0,
   "Amount": 25,
   "ClassNames": [

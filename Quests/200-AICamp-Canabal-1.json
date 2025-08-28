@@ -20,7 +20,16 @@
   "QuestItems": [],
   "Rewards": [
     {
-      "ClassName": "Project3DPrinter_Filament_Blue",
+      "ClassName": "MoneyAUD100",
+      "Amount": 50,
+      "Attachments": [],
+      "DamagePercent": 0,
+      "HealthPercent": 0,
+      "QuestID": -1,
+      "Chance": 1
+    },
+    {
+      "ClassName": "HM_Recycler_Kit",
       "Amount": 1,
       "Attachments": [],
       "DamagePercent": 0,
@@ -29,43 +38,7 @@
       "Chance": 1
     },
     {
-      "ClassName": "Project3DPrinter_Filament_LightBlue",
-      "Amount": 1,
-      "Attachments": [],
-      "DamagePercent": 0,
-      "HealthPercent": 0,
-      "QuestID": -1,
-      "Chance": 1
-    },
-    {
-      "ClassName": "Project3DPrinter_Filament_Orange",
-      "Amount": 1,
-      "Attachments": [],
-      "DamagePercent": 0,
-      "HealthPercent": 0,
-      "QuestID": -1,
-      "Chance": 1
-    },
-    {
-      "ClassName": "Project3DPrinter_Filament_Red",
-      "Amount": 1,
-      "Attachments": [],
-      "DamagePercent": 0,
-      "HealthPercent": 0,
-      "QuestID": -1,
-      "Chance": 1
-    },
-    {
-      "ClassName": "Project3DPrinter_Filament_Violet",
-      "Amount": 1,
-      "Attachments": [],
-      "DamagePercent": 0,
-      "HealthPercent": 0,
-      "QuestID": -1,
-      "Chance": 1
-    },
-    {
-      "ClassName": "Project3DPrinter_Filament_Yellow",
+      "ClassName": "MMG_mmps_bag_black",
       "Amount": 1,
       "Attachments": [],
       "DamagePercent": 0,
@@ -83,7 +56,7 @@
     1
   ],
   "QuestTurnInIDs": [
-    1
+    4002
   ],
   "IsAchievement": 0,
   "Objectives": [
