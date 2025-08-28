@@ -37,6 +37,8 @@ Some quests were found online and fixed/updated by me, while others were custom-
 
 3. Start your server and adjust the quests as you like.
 
+4. you will have to ajust the quest settings in (your DayZServer\profiles\ExpansionMod\settings\Questsettings`)
+
 ---
 you my want to change the dayz hard line settings in the mpmisions folder depending if you want to use groups and reputations 
 
