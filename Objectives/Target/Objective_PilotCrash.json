@@ -13,7 +13,7 @@
   ],
   "MaxDistance": 200.0,
   "MinDistance": -1.0,
-  "Amount": 25,
+  "Amount": 5,
   "ClassNames": [
     "ZmbM_CitizenASkinny_Blue",
     "ZmbM_CitizenASkinny_Grey",

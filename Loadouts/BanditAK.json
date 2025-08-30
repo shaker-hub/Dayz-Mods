@@ -2039,7 +2039,7 @@
     ],
     "InventoryCargo": [
         {
-            "ClassName": "ExpansionBanknoteHryvnia",
+            "ClassName": "MoneyAUD100",
             "Chance": 0.25,
             "Quantity": {
                 "Min": 0.01,
